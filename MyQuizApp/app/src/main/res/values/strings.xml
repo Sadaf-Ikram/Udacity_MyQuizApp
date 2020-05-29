@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <!-- QUESTION 1, Question text and answers -->
+    <string name="question_1">Question 1</string>
+    <string name="question_text_1">What is the name of the penguin of Joey?</string>
+    <string name="Q1O1">Hugsy</string>
+    <string name="Q1O2">Waggle</string>
+    <string name="Q1O3">Snowflake</string>
+
+    <!-- QUESTION 2, Question text and answers -->
+    <string name="question_2">Question 2</string>
+    <string name="question_text_2">Rachel was popular in high school. Her prom date Chip ditched her for which girl at school?</string>
+    <string name="Q2O1">Sally Roberts</string>
+    <string name="Q2O2">Amy Welsh</string>
+    <string name="Q2O3">Valerie Thompson</string>
+
+    <!-- QUESTION 3, Question text and answers -->
+    <string name="question_3">Question 3</string>
+    <string name="question_text_3">What hangs on the purple door of Monica?</string>
+    <string name="Q3O1">A key hook</string>
+    <string name="Q3O2">A coat hook</string>
+    <string name="Q3O3">A yellow picture frame</string>
+
+    <!-- QUESTION 4, Question text and answers -->
+    <string name="question_4">Question 4</string>
+    <string name="question_text_4">Who all are not main cast of the FRIENDS?</string>
+    <string name="Q4O1">Gunther</string>
+    <string name="Q4O2">Chandler</string>
+    <string name="Q4O3">Janice</string>
+    <string name="Q4O4">Joey</string>
+
+    <!-- QUESTION 5, Question text and answers -->
+    <string name="question_5">Question 5</string>
+    <string name="question_text_5">What kind of uniform does Joey wear to the wedding of Monica and Chandler?</string>
+    <string name="Q5O1">Chef</string>
+    <string name="Q5O2">Soldier</string>
+    <string name="Q5O3">Fire Fighter</string>
+
+    <!-- QUESTION 6, Question text and answers -->
+    <string name="question_6">Question 6</string>
+    <string name="question_text_6">What is the name of the hairless cat of Rachel? </string>
+    <string name="answer_question_6">Name</string>
+
+    <!-- QUESTION 7, Question text and answers -->
+    <string name="question_7">Question 7</string>
+    <string name="question_text_7">What is the name of the grumpy person who works at the coffee shop? </string>
+    <string name="answer_question_7">Name</string>
+
+    <!-- Button which is checking and showing quiz score -->
+    <string name="check_answers_button">Check Answers</string>
+    <string name="show_quiz_score">Your score is: </string>
+</resources>
